@@ -1,0 +1,1 @@
+{"name":"local-geo-audit","version":"1.0.0","private":true,"description":"소상공인 AI 검색 인용 준비도 진단 도구","scripts":{"start":"node server.mjs","dev":"node --watch server.mjs","test":"node --test"},"engines":{"node":">=22"}}
